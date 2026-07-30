@@ -45,27 +45,9 @@ Docker、Linux、本地推理、部署路径与运行维护。
 ## 代表项目
 
 <p align="center">
-<a href="https://github.com/AmigaMeow/puppy-stardew-server">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=AmigaMeow&repo=puppy-stardew-server&theme=github_dark&hide_border=true&description_lines_count=2">
-    <img width="49%" alt="Puppy Stardew Server" src="https://github-readme-stats.vercel.app/api/pin/?username=AmigaMeow&repo=puppy-stardew-server&theme=default&hide_border=true&description_lines_count=2">
-  </picture>
-</a>
-<a href="https://github.com/AmigaMeow/guanzizai">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=AmigaMeow&repo=guanzizai&theme=github_dark&hide_border=true&description_lines_count=2">
-    <img width="49%" alt="Guanzizai" src="https://github-readme-stats.vercel.app/api/pin/?username=AmigaMeow&repo=guanzizai&theme=default&hide_border=true&description_lines_count=2">
-  </picture>
-</a>
-</p>
-
-<p align="center">
-<a href="https://github.com/AmigaMeow/kimi-k3-local">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=AmigaMeow&repo=kimi-k3-local&theme=github_dark&hide_border=true&description_lines_count=2">
-    <img width="49%" alt="Kimi K3 Local" src="https://github-readme-stats.vercel.app/api/pin/?username=AmigaMeow&repo=kimi-k3-local&theme=default&hide_border=true&description_lines_count=2">
-  </picture>
-</a>
+  <a href="https://github.com/AmigaMeow/puppy-stardew-server"><img src="./assets/card-puppy.svg" width="32%" alt="Puppy Stardew Server"></a>
+  <a href="https://github.com/AmigaMeow/guanzizai"><img src="./assets/card-guanzizai.svg" width="32%" alt="观自在 Guanzizai"></a>
+  <a href="https://github.com/AmigaMeow/kimi-k3-local"><img src="./assets/card-kimi.svg" width="32%" alt="Kimi K3 Local"></a>
 </p>
 
 ### 作品矩阵
@@ -79,33 +61,32 @@ Docker、Linux、本地推理、部署路径与运行维护。
 ## 技术栈
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,nextjs,react,nodejs,postgres,docker,linux,git,github,vercel,cloudflare&theme=dark&perline=11">
-    <img src="https://skillicons.dev/icons?i=ts,nextjs,react,nodejs,postgres,docker,linux,git,github,vercel,cloudflare&theme=light&perline=11" alt="TypeScript, Next.js, React, Node.js, PostgreSQL, Docker, Linux, Git, GitHub, Vercel and Cloudflare">
-  </picture>
+  <img src="https://img.shields.io/badge/TypeScript-1B365D?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Next.js-1B365D?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js">
+  <img src="https://img.shields.io/badge/React-1B365D?style=flat-square&logo=react&logoColor=white" alt="React">
+  <img src="https://img.shields.io/badge/Node.js-1B365D?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/PostgreSQL-1B365D?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/Docker-1B365D?style=flat-square&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/Linux-1B365D?style=flat-square&logo=linux&logoColor=white" alt="Linux">
+  <img src="https://img.shields.io/badge/Vercel-1B365D?style=flat-square&logo=vercel&logoColor=white" alt="Vercel">
+  <img src="https://img.shields.io/badge/Cloudflare-1B365D?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare">
 </p>
 
 ## GitHub 数据
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=AmigaMeow&show_icons=true&include_all_commits=true&hide_border=true&theme=github_dark&rank_icon=percentile">
-    <img height="175" alt="AmigaMeow GitHub statistics" src="https://github-readme-stats.vercel.app/api?username=AmigaMeow&show_icons=true&include_all_commits=true&hide_border=true&theme=default&rank_icon=percentile">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AmigaMeow&layout=compact&langs_count=8&hide_border=true&theme=github_dark">
-    <img height="175" alt="Languages used in AmigaMeow public repositories" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmigaMeow&layout=compact&langs_count=8&hide_border=true&theme=default">
-  </picture>
+  <img src="./assets/github-metrics.svg" width="100%" alt="GitHub 数据概览">
 </p>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=AmigaMeow&theme=github-compact&hide_border=true&area=true&custom_title=Public%20Contribution%20Activity">
-    <img width="100%" alt="AmigaMeow public contribution activity" src="https://github-readme-activity-graph.vercel.app/graph?username=AmigaMeow&theme=github-light&hide_border=true&area=true&custom_title=Public%20Contribution%20Activity">
-  </picture>
-</p>
+<div align="center">
 
-<sub>数据卡主要基于公开仓库生成；私有项目、未公开代码与部分协作记录不会完整计入。</sub>
+[![Puppy Stardew Server Stars](https://img.shields.io/github/stars/AmigaMeow/puppy-stardew-server?style=flat-square&label=Puppy%20Stardew%20Server&color=1B365D)](https://github.com/AmigaMeow/puppy-stardew-server)
+[![Guanzizai Stars](https://img.shields.io/github/stars/AmigaMeow/guanzizai?style=flat-square&label=Guanzizai&color=1B365D)](https://github.com/AmigaMeow/guanzizai)
+[![Kimi K3 Local Stars](https://img.shields.io/github/stars/AmigaMeow/kimi-k3-local?style=flat-square&label=Kimi%20K3%20Local&color=1B365D)](https://github.com/AmigaMeow/kimi-k3-local)
+
+</div>
+
+<sub>项目卡片与数据面板均使用仓库内本地 SVG，避免第三方统计服务异常时出现破图；Star 数量仍由稳定徽章实时显示。</sub>
 
 ## 工程原则
 
