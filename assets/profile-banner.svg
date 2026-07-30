@@ -1,55 +1,14 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
-  <title id="title">Amiga Meow — AI Product Engineer and Open Source Builder</title>
-  <desc id="desc">A responsive editorial banner with a geometric AM mark and diagrams for AI, infrastructure, and knowledge systems.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 220" role="img" aria-labelledby="title desc">
+  <title id="title">Amiga Meow — Product Engineer and Open Source Builder</title>
+  <desc id="desc">A restrained text-only profile banner.</desc>
   <style>
-    .bg{fill:#f5f2e9}.panel{fill:#ece7da}.ink{fill:#1b365d}.muted{fill:#6c6459}.line{fill:none;stroke:#1b365d;stroke-width:2;stroke-linecap:round;stroke-linejoin:round}.fine{fill:none;stroke:#a79d8d;stroke-width:1}.grid{fill:none;stroke:#cfc7b9;stroke-width:1}.node{fill:#1b365d}.accent{fill:#9b7438}.label{font-family:Inter,-apple-system,BlinkMacSystemFont,"Segoe UI",Arial,sans-serif;letter-spacing:3px}.serif{font-family:Georgia,"Times New Roman",serif}
-    @media (prefers-color-scheme:dark){.bg{fill:#0d1117}.panel{fill:#151b23}.ink{fill:#dce7f5}.muted{fill:#9aa7b7}.line{stroke:#dce7f5}.fine{stroke:#52647a}.grid{stroke:#263345}.node{fill:#dce7f5}.accent{fill:#c7a261}}
+    .bg{fill:#f5f2e9}.panel{fill:#ece7da}.ink{fill:#1b365d}.muted{fill:#6c6459}.line{stroke:#a79d8d;stroke-width:1}.sans{font-family:Inter,-apple-system,BlinkMacSystemFont,"Segoe UI",Arial,sans-serif}.serif{font-family:Georgia,"Times New Roman",serif}.label{letter-spacing:3px}
+    @media (prefers-color-scheme:dark){.bg{fill:#0d1117}.panel{fill:#151b23}.ink{fill:#dce7f5}.muted{fill:#9aa7b7}.line{stroke:#52647a}}
   </style>
-  <rect class="bg" width="1200" height="320" rx="24"/>
-  <path class="grid" opacity=".55" d="M0 64h1200M0 128h1200M0 192h1200M0 256h1200M80 0v320M160 0v320M240 0v320M320 0v320M400 0v320M480 0v320M560 0v320M640 0v320M720 0v320M800 0v320M880 0v320M960 0v320M1040 0v320M1120 0v320"/>
-  <rect class="panel" x="36" y="36" width="1128" height="248" rx="18"/>
-
-  <g transform="translate(72 72)">
-    <rect class="fine" x="0" y="0" width="136" height="136" rx="28"/>
-    <path class="line" d="M24 102 48 34l20 44 20-44 24 68"/>
-    <path class="line" d="M36 81h24m16 0h24"/>
-    <circle class="node" cx="24" cy="102" r="4"/><circle class="node" cx="48" cy="34" r="4"/><circle class="node" cx="68" cy="78" r="4"/><circle class="node" cx="88" cy="34" r="4"/><circle class="node" cx="112" cy="102" r="4"/>
-    <text class="label muted" x="0" y="166" font-size="10">IDENTITY / AM-01</text>
-  </g>
-
-  <g transform="translate(248 82)">
-    <text class="serif ink" x="0" y="50" font-size="54" font-weight="600">Amiga Meow</text>
-    <text class="label ink" x="2" y="84" font-size="14">AI PRODUCT ENGINEER · OPEN SOURCE BUILDER</text>
-    <text class="muted" x="2" y="121" font-family="Inter,-apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif" font-size="16">Practical AI products, self-hosted systems, and maintainable open-source tools.</text>
-    <path class="fine" d="M2 143h560"/>
-    <text class="label muted" x="2" y="169" font-size="10">PRODUCT ENGINEERING / LOCAL AI / INFRASTRUCTURE / KNOWLEDGE SYSTEMS</text>
-  </g>
-
-  <g transform="translate(875 64)">
-    <rect class="fine" x="0" y="0" width="255" height="192" rx="16"/>
-    <g transform="translate(22 21)">
-      <rect class="line" x="0" y="8" width="58" height="48" rx="5"/>
-      <path class="fine" d="M9 20h40M9 32h40M9 44h25"/>
-      <circle class="accent" cx="48" cy="44" r="3"/>
-      <text class="label muted" x="0" y="75" font-size="8">SYSTEMS</text>
-    </g>
-    <g transform="translate(98 23)">
-      <rect class="line" x="4" y="0" width="52" height="52" rx="8"/>
-      <path class="fine" d="M18 0v-8m12 8v-8m12 8v-8M18 52v8m12-8v8m12-8v8M4 17h-8m8 12h-8m8 12h-8M56 17h8m-8 12h8m-8 12h8"/>
-      <circle class="node" cx="30" cy="26" r="8"/>
-      <path class="fine" d="M17 37 30 26l13 11"/>
-      <text class="label muted" x="0" y="73" font-size="8">LOCAL AI</text>
-    </g>
-    <g transform="translate(181 22)">
-      <path class="line" d="M0 8c15-8 30-8 45 0v47c-15-8-30-8-45 0Z"/>
-      <path class="line" d="M45 8c15-8 30-8 45 0v47c-15-8-30-8-45 0Z" transform="translate(-45 0)" opacity="0"/>
-      <path class="fine" d="M22.5 8v47M7 20h10m-10 10h10m-10 10h10m11-20h10m-10 10h10m-10 10h10"/>
-      <text class="label muted" x="0" y="74" font-size="8">KNOWLEDGE</text>
-    </g>
-    <path class="fine" d="M48 118h158"/>
-    <circle class="node" cx="48" cy="118" r="4"/><circle class="node" cx="127" cy="118" r="4"/><circle class="node" cx="206" cy="118" r="4"/>
-    <path class="line" d="M48 118 127 154 206 118"/>
-    <circle class="accent" cx="127" cy="154" r="5"/>
-    <text class="label muted" x="23" y="178" font-size="8">BUILD → DEPLOY → DOCUMENT → MAINTAIN</text>
-  </g>
+  <rect class="bg" width="1200" height="220" rx="20"/>
+  <rect class="panel" x="28" y="28" width="1144" height="164" rx="16"/>
+  <text class="serif ink" x="64" y="96" font-size="58" font-weight="600">Amiga Meow</text>
+  <text class="sans ink label" x="66" y="130" font-size="14">PRODUCT ENGINEER · OPEN SOURCE BUILDER</text>
+  <line class="line" x1="66" y1="150" x2="1134" y2="150"/>
+  <text class="sans muted" x="66" y="176" font-size="15">Practical AI products · self-hosted systems · maintainable open-source tools</text>
 </svg>
